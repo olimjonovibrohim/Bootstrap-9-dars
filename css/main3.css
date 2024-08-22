@@ -1,0 +1,51 @@
+.p1{
+    float: left;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.tol1{
+    margin-top: 10px;
+}
+.kol{
+    position: absolute;
+    margin-left: 60px;
+}
+button{
+    margin-left: 60px;
+}
+.kalla1{
+    background: linear-gradient(90deg,violet,blueviolet);
+    color: white;
+    width: 100%;
+    height: 120px;
+}
+.kalla2{
+    background: linear-gradient(135deg,aqua,blue);
+    color: white;
+    width: 100%;
+    height: 120px;
+}
+.kalla3{
+    background: linear-gradient(135deg,yellow,rgb(232, 94, 117));
+    color: white;
+    width: 100%;
+    height: 120px;
+}
+.kalla4{
+    background: linear-gradient(90deg,blue,lightblue);
+    color: white;
+    width: 100%;
+    height: 120px;
+}
+.p2{
+    float: left;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.tol2{
+    margin-top: 10px;
+}
+.kol1{
+    position: absolute;
+    margin-left: 60px;
+}
